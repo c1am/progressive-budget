@@ -13,7 +13,7 @@ The user should clone the repository from GitHub.
 ## Installation
 Clone this repository. 
 - [Repository Link](https://github.com/c1am/progressive-budget) 
-- SSH Clone Link: "git@github.com:c1am/progressive-budget.git"
+- SSH Clone Link: `git@github.com:c1am/progressive-budget.git`
 - [Heroku Deployment Link](https://cherrys-progressive-budget.herokuapp.com/)
 
 Install `node.js`, open the terminal and run `npm i` to install the packages below in the format of this example `npm i mysql2` for each package:
